@@ -1,4 +1,5 @@
-Welcome to my first GitPage this is index.md
+# Welcome to my first GitPage this is index.md If I put a # it repeats
+# I don´t know what does the # sign
 
 This is a test to publish with GitPages
 The first try did not rebuild. 
