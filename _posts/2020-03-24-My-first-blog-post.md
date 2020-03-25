@@ -1,5 +1,5 @@
 --
-title: "I am earning to create a web page"
+title: "I am learning to create a web page"
 date: 2019-01-20
 ---
 in GitHub Pages
