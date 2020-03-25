@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my first GitPage
 
-I'm glad you are here. I plan to talk about ...
+This is a test to publish with GitPages
